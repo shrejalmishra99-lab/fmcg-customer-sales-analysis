@@ -46,7 +46,7 @@ Exploratory data analysis of customer data from an FMCG (Fast Moving Consumer Go
 
 | File | Description |
 |------|-------------|
-| `fmcg_customer_sales_analysis.ipynb` | Full analysis with code, charts and interpretations |
+| `fmcg-customer-sales_analysis.ipynb` | Full analysis with code, charts and interpretations |
 | `FMCG.pptx` | Presentation summarizing the project |
 
 ## How to Run
