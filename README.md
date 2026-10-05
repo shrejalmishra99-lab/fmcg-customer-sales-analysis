@@ -47,7 +47,7 @@ Exploratory data analysis of customer data from an FMCG (Fast Moving Consumer Go
 | File | Description |
 |------|-------------|
 | `fmcg_customer_sales_analysis.ipynb` | Full analysis with code, charts and interpretations |
-| `YOUR-PPT-FILE-NAME.pptx` | Presentation summarizing the project |
+| `FMCG.pptx` | Presentation summarizing the project |
 
 ## How to Run
 
@@ -58,4 +58,4 @@ Exploratory data analysis of customer data from an FMCG (Fast Moving Consumer Go
 
 ## Author
 
-**Shrejal Mishra** | [LinkedIn](https://www.linkedin.com/in/shrejal-mishra-6135212b7) | [GitHub](https://github.com/your-username)
+**Shrejal Mishra** | [LinkedIn](https://www.linkedin.com/in/shrejal-mishra-6135212b7) | [GitHub](https://github.com/shrejalmishra99-lab)
